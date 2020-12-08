@@ -1,0 +1,6 @@
+/Users/raphael.villas/RiderProjects/CourseraCSharpUnity/MyFirstConsoleApp/bin/Debug/MyFirstConsoleApp.exe
+/Users/raphael.villas/RiderProjects/CourseraCSharpUnity/MyFirstConsoleApp/bin/Debug/MyFirstConsoleApp.pdb
+/Users/raphael.villas/RiderProjects/CourseraCSharpUnity/MyFirstConsoleApp/obj/Debug/MyFirstConsoleApp.csprojAssemblyReference.cache
+/Users/raphael.villas/RiderProjects/CourseraCSharpUnity/MyFirstConsoleApp/obj/Debug/MyFirstConsoleApp.csproj.CoreCompileInputs.cache
+/Users/raphael.villas/RiderProjects/CourseraCSharpUnity/MyFirstConsoleApp/obj/Debug/MyFirstConsoleApp.exe
+/Users/raphael.villas/RiderProjects/CourseraCSharpUnity/MyFirstConsoleApp/obj/Debug/MyFirstConsoleApp.pdb
